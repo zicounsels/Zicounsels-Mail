@@ -1,0 +1,254 @@
+[
+  {
+    "id": "resource",
+    "category": "Growth",
+    "name": "Your next step starts here",
+    "subject": "Your Career Discovery Workbook is ready",
+    "html": "<table role=\"presentation\" width=\"100%\" style=\"background-color:#f3f4fa\"><tr><td align=\"center\" style=\"padding:28px\"><table role=\"presentation\" width=\"100%\" style=\"width:100%;max-width:600px;background-color:#ffffff;font-family:Arial,sans-serif;line-height:1.6\"><tr><td style=\"padding:28px\"><img src=\"{{logo_url}}\" width=\"200\" alt=\"Zicounsels\"><p style=\"font-size:12px;color:#5865b9\">DISPELLING YOUR CLOUDS OF DOUBT</p><h1 style=\"font-family:Georgia;font-size:28px;color:#23294d\">Your next step starts here</h1><p>Hello {{first_name}},</p><p>You do not have to solve your whole future today. Start with one page of your Career Discovery Workbook: list three strengths, three interests and one question you want help answering.</p><p>Keep your answers. They will give your next career conversation a clearer starting point.</p><p style=\"padding:16px\"><a href=\"{{resource_url}}\" style=\"background-color:#515fc1;color:#ffffff;padding:14px;text-decoration:none;border-radius:6px\">Download my workbook</a></p><p>With light,<br>The Zicounsels team</p></td></tr></table></td></tr></table>"
+  },
+  {
+    "id": "welcome-1",
+    "category": "Welcome",
+    "name": "A little more clarity, starting today",
+    "subject": "Welcome to Zicounsels. Here is your first step",
+    "html": "<table role=\"presentation\" width=\"100%\" style=\"background-color:#f3f4fa\"><tr><td align=\"center\" style=\"padding:28px\"><table role=\"presentation\" width=\"100%\" style=\"width:100%;max-width:600px;background-color:#ffffff;font-family:Arial,sans-serif;line-height:1.6\"><tr><td style=\"padding:28px\"><img src=\"{{logo_url}}\" width=\"200\" alt=\"Zicounsels\"><p style=\"font-size:12px;color:#5865b9\">DISPELLING YOUR CLOUDS OF DOUBT</p><h1 style=\"font-family:Georgia;font-size:28px;color:#23294d\">A little more clarity, starting today</h1><p>Hello {{first_name}},</p><p>Thank you for joining a community built around real people and real career decisions across Africa.</p><p>Set a timer for ten minutes. Write three things you enjoy, three things you are good at, and one thing you would like to try. You already have the beginning of a direction.</p><p style=\"padding:16px\"><a href=\"{{course_url}}\" style=\"background-color:#515fc1;color:#ffffff;padding:14px;text-decoration:none;border-radius:6px\">Explore Career Clarity Starter</a></p><p>With light,<br>The Zicounsels team</p></td></tr></table></td></tr></table>"
+  },
+  {
+    "id": "welcome-2",
+    "category": "Welcome",
+    "name": "Turn your interests into an experiment",
+    "subject": "One small experiment for your career this week",
+    "html": "<table role=\"presentation\" width=\"100%\" style=\"background-color:#f3f4fa\"><tr><td align=\"center\" style=\"padding:28px\"><table role=\"presentation\" width=\"100%\" style=\"width:100%;max-width:600px;background-color:#ffffff;font-family:Arial,sans-serif;line-height:1.6\"><tr><td style=\"padding:28px\"><img src=\"{{logo_url}}\" width=\"200\" alt=\"Zicounsels\"><p style=\"font-size:12px;color:#5865b9\">DISPELLING YOUR CLOUDS OF DOUBT</p><h1 style=\"font-family:Georgia;font-size:28px;color:#23294d\">Turn your interests into an experiment</h1><p>Hello {{first_name}},</p><p>Look at the list you made. Choose one interest and test it: speak with someone in that field, try a short lesson or help with a small project.</p><p>Our Career Clarity Starter course gives you a guided way to reflect, explore and choose a practical next step.</p><p style=\"padding:16px\"><a href=\"{{course_url}}\" style=\"background-color:#515fc1;color:#ffffff;padding:14px;text-decoration:none;border-radius:6px\">Start the course</a></p><p>With light,<br>The Zicounsels team</p></td></tr></table></td></tr></table>"
+  },
+  {
+    "id": "welcome-3",
+    "category": "Welcome",
+    "name": "You do not have to figure it out alone",
+    "subject": "What actually happens in a counselling session?",
+    "html": "<table role=\"presentation\" width=\"100%\" style=\"background-color:#f3f4fa\"><tr><td align=\"center\" style=\"padding:28px\"><table role=\"presentation\" width=\"100%\" style=\"width:100%;max-width:600px;background-color:#ffffff;font-family:Arial,sans-serif;line-height:1.6\"><tr><td style=\"padding:28px\"><img src=\"{{logo_url}}\" width=\"200\" alt=\"Zicounsels\"><p style=\"font-size:12px;color:#5865b9\">DISPELLING YOUR CLOUDS OF DOUBT</p><h1 style=\"font-family:Georgia;font-size:28px;color:#23294d\">You do not have to figure it out alone</h1><p>Hello {{first_name}},</p><p>A career conversation begins with you: your questions, circumstances and what matters to you. Your counsellor helps you explore options and agree on a practical next step.</p><p>You can review counsellor profiles and available times before booking. There is no promise of an instant answer\u2014just space to think with someone who listens.</p><p style=\"padding:16px\"><a href=\"{{booking_url}}\" style=\"background-color:#515fc1;color:#ffffff;padding:14px;text-decoration:none;border-radius:6px\">Explore counselling</a></p><p>With light,<br>The Zicounsels team</p></td></tr></table></td></tr></table>"
+  },
+  {
+    "id": "welcome-4",
+    "category": "Welcome",
+    "name": "A real journey, an honest lesson",
+    "subject": "A career story worth slowing down for",
+    "html": "<table role=\"presentation\" width=\"100%\" style=\"background-color:#f3f4fa\"><tr><td align=\"center\" style=\"padding:28px\"><table role=\"presentation\" width=\"100%\" style=\"width:100%;max-width:600px;background-color:#ffffff;font-family:Arial,sans-serif;line-height:1.6\"><tr><td style=\"padding:28px\"><img src=\"{{logo_url}}\" width=\"200\" alt=\"Zicounsels\"><p style=\"font-size:12px;color:#5865b9\">DISPELLING YOUR CLOUDS OF DOUBT</p><h1 style=\"font-family:Georgia;font-size:28px;color:#23294d\">A real journey, an honest lesson</h1><p>Hello {{first_name}},</p><p>Career paths rarely unfold in a straight line. Safari Zetu makes room for the changes, doubts and decisions behind the polished headlines.</p><p>{{story_excerpt}}</p><p>As you read, ask yourself: which part of this experience speaks to where I am now?</p><p style=\"padding:16px\"><a href=\"{{story_url}}\" style=\"background-color:#515fc1;color:#ffffff;padding:14px;text-decoration:none;border-radius:6px\">Read the Safari Zetu story</a></p><p>With light,<br>The Zicounsels team</p></td></tr></table></td></tr></table>"
+  },
+  {
+    "id": "welcome-5",
+    "category": "Welcome",
+    "name": "Keep a little clarity close by",
+    "subject": "Join the conversation beyond your inbox",
+    "html": "<table role=\"presentation\" width=\"100%\" style=\"background-color:#f3f4fa\"><tr><td align=\"center\" style=\"padding:28px\"><table role=\"presentation\" width=\"100%\" style=\"width:100%;max-width:600px;background-color:#ffffff;font-family:Arial,sans-serif;line-height:1.6\"><tr><td style=\"padding:28px\"><img src=\"{{logo_url}}\" width=\"200\" alt=\"Zicounsels\"><p style=\"font-size:12px;color:#5865b9\">DISPELLING YOUR CLOUDS OF DOUBT</p><h1 style=\"font-family:Georgia;font-size:28px;color:#23294d\">Keep a little clarity close by</h1><p>Hello {{first_name}},</p><p>You have taken a few small steps with us. Keep going at your own pace.</p><p>Our WhatsApp Channel shares practical prompts, programme announcements and opportunities to keep learning. Choose what is helpful for this season of your journey.</p><p style=\"padding:16px\"><a href=\"{{whatsapp_url}}\" style=\"background-color:#515fc1;color:#ffffff;padding:14px;text-decoration:none;border-radius:6px\">Join our WhatsApp Channel</a></p><p>With light,<br>The Zicounsels team</p></td></tr></table></td></tr></table>"
+  },
+  {
+    "id": "nurture",
+    "category": "Growth",
+    "name": "Feeling stuck is a starting point",
+    "subject": "One question to ask when your next step feels unclear",
+    "html": "<table role=\"presentation\" width=\"100%\" style=\"background-color:#f3f4fa\"><tr><td align=\"center\" style=\"padding:28px\"><table role=\"presentation\" width=\"100%\" style=\"width:100%;max-width:600px;background-color:#ffffff;font-family:Arial,sans-serif;line-height:1.6\"><tr><td style=\"padding:28px\"><img src=\"{{logo_url}}\" width=\"200\" alt=\"Zicounsels\"><p style=\"font-size:12px;color:#5865b9\">DISPELLING YOUR CLOUDS OF DOUBT</p><h1 style=\"font-family:Georgia;font-size:28px;color:#23294d\">Feeling stuck is a starting point</h1><p>Hello {{first_name}},</p><p>Whether you are choosing WAEC or JAMB subjects, searching for a first role or considering a career change, uncertainty can feel heavy.</p><p>Separate what you know from what you need to find out. Write down one unanswered question, then identify one person or reliable source that can help you answer it this week.</p><p style=\"padding:16px\"><a href=\"{{booking_url}}\" style=\"background-color:#515fc1;color:#ffffff;padding:14px;text-decoration:none;border-radius:6px\">Talk it through</a></p><p>With light,<br>The Zicounsels team</p></td></tr></table></td></tr></table>"
+  },
+  {
+    "id": "invite",
+    "category": "Webinars",
+    "name": "Bring your question. Leave with a next step.",
+    "subject": "{{event_title}} \u2014 your invitation",
+    "html": "<table role=\"presentation\" width=\"100%\" style=\"background-color:#f3f4fa\"><tr><td align=\"center\" style=\"padding:28px\"><table role=\"presentation\" width=\"100%\" style=\"width:100%;max-width:600px;background-color:#ffffff;font-family:Arial,sans-serif;line-height:1.6\"><tr><td style=\"padding:28px\"><img src=\"{{logo_url}}\" width=\"200\" alt=\"Zicounsels\"><p style=\"font-size:12px;color:#5865b9\">DISPELLING YOUR CLOUDS OF DOUBT</p><h1 style=\"font-family:Georgia;font-size:28px;color:#23294d\">Bring your question. Leave with a next step.</h1><p>Hello {{first_name}},</p><p>{{event_promise}}</p><p>Join {{speakers}} on {{event_time}}. Bring your biggest question and something to take notes with.</p><p>When you register, tell us where you are in your career journey so we can make the session useful to you.</p><p style=\"padding:16px\"><a href=\"{{registration_url}}\" style=\"background-color:#515fc1;color:#ffffff;padding:14px;text-decoration:none;border-radius:6px\">Save my place</a></p><p>With light,<br>The Zicounsels team</p></td></tr></table></td></tr></table>"
+  },
+  {
+    "id": "proof",
+    "category": "Webinars",
+    "name": "Here is why this session matters",
+    "subject": "One reason to join {{event_title}}",
+    "html": "<table role=\"presentation\" width=\"100%\" style=\"background-color:#f3f4fa\"><tr><td align=\"center\" style=\"padding:28px\"><table role=\"presentation\" width=\"100%\" style=\"width:100%;max-width:600px;background-color:#ffffff;font-family:Arial,sans-serif;line-height:1.6\"><tr><td style=\"padding:28px\"><img src=\"{{logo_url}}\" width=\"200\" alt=\"Zicounsels\"><p style=\"font-size:12px;color:#5865b9\">DISPELLING YOUR CLOUDS OF DOUBT</p><h1 style=\"font-family:Georgia;font-size:28px;color:#23294d\">Here is why this session matters</h1><p>Hello {{first_name}},</p><p>A useful learning experience should leave you able to do something differently.</p><p>{{proof_text}}</p><p>At {{event_title}}, we will work toward this practical outcome: {{event_promise}}.</p><p style=\"padding:16px\"><a href=\"{{registration_url}}\" style=\"background-color:#515fc1;color:#ffffff;padding:14px;text-decoration:none;border-radius:6px\">See the session details</a></p><p>With light,<br>The Zicounsels team</p></td></tr></table></td></tr></table>"
+  },
+  {
+    "id": "reminder-3",
+    "category": "Webinars",
+    "name": "Three days to your next step",
+    "subject": "Coming up: {{event_title}}",
+    "html": "<table role=\"presentation\" width=\"100%\" style=\"background-color:#f3f4fa\"><tr><td align=\"center\" style=\"padding:28px\"><table role=\"presentation\" width=\"100%\" style=\"width:100%;max-width:600px;background-color:#ffffff;font-family:Arial,sans-serif;line-height:1.6\"><tr><td style=\"padding:28px\"><img src=\"{{logo_url}}\" width=\"200\" alt=\"Zicounsels\"><p style=\"font-size:12px;color:#5865b9\">DISPELLING YOUR CLOUDS OF DOUBT</p><h1 style=\"font-family:Georgia;font-size:28px;color:#23294d\">Three days to your next step</h1><p>Hello {{first_name}},</p><p>Our session is getting closer. If this topic has been on your mind, this is a good moment to reserve your place.</p><p>{{event_promise}}</p><p>{{event_time}}. Please check the registration page for current availability.</p><p style=\"padding:16px\"><a href=\"{{registration_url}}\" style=\"background-color:#515fc1;color:#ffffff;padding:14px;text-decoration:none;border-radius:6px\">Check availability</a></p><p>With light,<br>The Zicounsels team</p></td></tr></table></td></tr></table>"
+  },
+  {
+    "id": "logistics",
+    "category": "Webinars",
+    "name": "Everything you need for tomorrow",
+    "subject": "Tomorrow: {{event_title}} \u2014 joining details",
+    "html": "<table role=\"presentation\" width=\"100%\" style=\"background-color:#f3f4fa\"><tr><td align=\"center\" style=\"padding:28px\"><table role=\"presentation\" width=\"100%\" style=\"width:100%;max-width:600px;background-color:#ffffff;font-family:Arial,sans-serif;line-height:1.6\"><tr><td style=\"padding:28px\"><img src=\"{{logo_url}}\" width=\"200\" alt=\"Zicounsels\"><p style=\"font-size:12px;color:#5865b9\">DISPELLING YOUR CLOUDS OF DOUBT</p><h1 style=\"font-family:Georgia;font-size:28px;color:#23294d\">Everything you need for tomorrow</h1><p>Hello {{first_name}},</p><p>Your session is on {{event_time}}. Your calendar invitation is attached.</p><p>Bring your questions, a notebook and any work you would like to improve. Please join a few minutes early to check your connection.</p><p style=\"padding:16px\"><a href=\"{{meeting_url}}\" style=\"background-color:#515fc1;color:#ffffff;padding:14px;text-decoration:none;border-radius:6px\">Open the meeting</a></p><p>With light,<br>The Zicounsels team</p></td></tr></table></td></tr></table>"
+  },
+  {
+    "id": "three-hours",
+    "category": "Webinars",
+    "name": "We start in three hours",
+    "subject": "Three hours to {{event_title}}",
+    "html": "<table role=\"presentation\" width=\"100%\" style=\"background-color:#f3f4fa\"><tr><td align=\"center\" style=\"padding:28px\"><table role=\"presentation\" width=\"100%\" style=\"width:100%;max-width:600px;background-color:#ffffff;font-family:Arial,sans-serif;line-height:1.6\"><tr><td style=\"padding:28px\"><img src=\"{{logo_url}}\" width=\"200\" alt=\"Zicounsels\"><p style=\"font-size:12px;color:#5865b9\">DISPELLING YOUR CLOUDS OF DOUBT</p><h1 style=\"font-family:Georgia;font-size:28px;color:#23294d\">We start in three hours</h1><p>Hello {{first_name}},</p><p>Your next career conversation is nearly here. Set aside your notes and check your connection ahead of {{event_time}}.</p><p>If your plans have changed, we understand. We will share the available follow-up resources afterwards.</p><p style=\"padding:16px\"><a href=\"{{meeting_url}}\" style=\"background-color:#515fc1;color:#ffffff;padding:14px;text-decoration:none;border-radius:6px\">Find my meeting link</a></p><p>With light,<br>The Zicounsels team</p></td></tr></table></td></tr></table>"
+  },
+  {
+    "id": "live",
+    "category": "Webinars",
+    "name": "We are opening the room",
+    "subject": "Starting shortly: {{event_title}}",
+    "html": "<table role=\"presentation\" width=\"100%\" style=\"background-color:#f3f4fa\"><tr><td align=\"center\" style=\"padding:28px\"><table role=\"presentation\" width=\"100%\" style=\"width:100%;max-width:600px;background-color:#ffffff;font-family:Arial,sans-serif;line-height:1.6\"><tr><td style=\"padding:28px\"><img src=\"{{logo_url}}\" width=\"200\" alt=\"Zicounsels\"><p style=\"font-size:12px;color:#5865b9\">DISPELLING YOUR CLOUDS OF DOUBT</p><h1 style=\"font-family:Georgia;font-size:28px;color:#23294d\">We are opening the room</h1><p>Hello {{first_name}},</p><p>We begin in fifteen minutes. Come in, settle down and bring the question you most want answered.</p><p style=\"padding:16px\"><a href=\"{{meeting_url}}\" style=\"background-color:#515fc1;color:#ffffff;padding:14px;text-decoration:none;border-radius:6px\">Join the room</a></p><p>With light,<br>The Zicounsels team</p></td></tr></table></td></tr></table>"
+  },
+  {
+    "id": "replay",
+    "category": "Webinars",
+    "name": "Keep the learning going",
+    "subject": "Your {{event_title}} replay and follow-up resources",
+    "html": "<table role=\"presentation\" width=\"100%\" style=\"background-color:#f3f4fa\"><tr><td align=\"center\" style=\"padding:28px\"><table role=\"presentation\" width=\"100%\" style=\"width:100%;max-width:600px;background-color:#ffffff;font-family:Arial,sans-serif;line-height:1.6\"><tr><td style=\"padding:28px\"><img src=\"{{logo_url}}\" width=\"200\" alt=\"Zicounsels\"><p style=\"font-size:12px;color:#5865b9\">DISPELLING YOUR CLOUDS OF DOUBT</p><h1 style=\"font-family:Georgia;font-size:28px;color:#23294d\">Keep the learning going</h1><p>Hello {{first_name}},</p><p>Thank you for being part of this learning journey. You can revisit the session and find the available certificate and feedback links on the resource page below.</p><p>Choose one idea to put into practice this week. Small action makes the lesson useful.</p><p style=\"padding:16px\"><a href=\"{{replay_url}}\" style=\"background-color:#515fc1;color:#ffffff;padding:14px;text-decoration:none;border-radius:6px\">Open my resources</a></p><p>With light,<br>The Zicounsels team</p></td></tr></table></td></tr></table>"
+  },
+  {
+    "id": "conversion",
+    "category": "Webinars",
+    "name": "Turn what you learned into a plan",
+    "subject": "Your next step after {{event_title}}",
+    "html": "<table role=\"presentation\" width=\"100%\" style=\"background-color:#f3f4fa\"><tr><td align=\"center\" style=\"padding:28px\"><table role=\"presentation\" width=\"100%\" style=\"width:100%;max-width:600px;background-color:#ffffff;font-family:Arial,sans-serif;line-height:1.6\"><tr><td style=\"padding:28px\"><img src=\"{{logo_url}}\" width=\"200\" alt=\"Zicounsels\"><p style=\"font-size:12px;color:#5865b9\">DISPELLING YOUR CLOUDS OF DOUBT</p><h1 style=\"font-family:Georgia;font-size:28px;color:#23294d\">Turn what you learned into a plan</h1><p>Hello {{first_name}},</p><p>What stood out during the session? If you would value support applying it to your own circumstances, a counselling conversation can help.</p><p>{{offer_text}}</p><p style=\"padding:16px\"><a href=\"{{booking_url}}\" style=\"background-color:#515fc1;color:#ffffff;padding:14px;text-decoration:none;border-radius:6px\">Explore the counselling offer</a></p><p>With light,<br>The Zicounsels team</p></td></tr></table></td></tr></table>"
+  },
+  {
+    "id": "missed",
+    "category": "Webinars",
+    "name": "There is still a next step",
+    "subject": "Missed {{event_title}}? Start here",
+    "html": "<table role=\"presentation\" width=\"100%\" style=\"background-color:#f3f4fa\"><tr><td align=\"center\" style=\"padding:28px\"><table role=\"presentation\" width=\"100%\" style=\"width:100%;max-width:600px;background-color:#ffffff;font-family:Arial,sans-serif;line-height:1.6\"><tr><td style=\"padding:28px\"><img src=\"{{logo_url}}\" width=\"200\" alt=\"Zicounsels\"><p style=\"font-size:12px;color:#5865b9\">DISPELLING YOUR CLOUDS OF DOUBT</p><h1 style=\"font-family:Georgia;font-size:28px;color:#23294d\">There is still a next step</h1><p>Hello {{first_name}},</p><p>Life gets busy. You can still explore the available replay and resources, then choose the next step that fits your time.</p><p>You are welcome to join a future session or speak with a counsellor when you are ready.</p><p style=\"padding:16px\"><a href=\"{{replay_url}}\" style=\"background-color:#515fc1;color:#ffffff;padding:14px;text-decoration:none;border-radius:6px\">Catch up here</a></p><p>With light,<br>The Zicounsels team</p></td></tr></table></td></tr></table>"
+  },
+  {
+    "id": "feedback",
+    "category": "Webinars",
+    "name": "Help us make the next session better",
+    "subject": "A quick reflection on {{event_title}}",
+    "html": "<table role=\"presentation\" width=\"100%\" style=\"background-color:#f3f4fa\"><tr><td align=\"center\" style=\"padding:28px\"><table role=\"presentation\" width=\"100%\" style=\"width:100%;max-width:600px;background-color:#ffffff;font-family:Arial,sans-serif;line-height:1.6\"><tr><td style=\"padding:28px\"><img src=\"{{logo_url}}\" width=\"200\" alt=\"Zicounsels\"><p style=\"font-size:12px;color:#5865b9\">DISPELLING YOUR CLOUDS OF DOUBT</p><h1 style=\"font-family:Georgia;font-size:28px;color:#23294d\">Help us make the next session better</h1><p>Hello {{first_name}},</p><p>Which part helped you most, and what could we make clearer? Your honest feedback shapes future sessions.</p><p>Tell us one action you plan to take as a result of the session.</p><p style=\"padding:16px\"><a href=\"{{feedback_url}}\" style=\"background-color:#515fc1;color:#ffffff;padding:14px;text-decoration:none;border-radius:6px\">Share my feedback</a></p><p>With light,<br>The Zicounsels team</p></td></tr></table></td></tr></table>"
+  },
+  {
+    "id": "compass",
+    "category": "Newsletter",
+    "name": "The Compass",
+    "subject": "The Compass | {{edition}}",
+    "html": "<table role=\"presentation\" width=\"100%\" style=\"background-color:#f3f4fa\"><tr><td align=\"center\" style=\"padding:28px\"><table role=\"presentation\" width=\"100%\" style=\"width:100%;max-width:600px;background-color:#ffffff;font-family:Arial,sans-serif;line-height:1.6\"><tr><td style=\"padding:28px\"><img src=\"{{logo_url}}\" width=\"200\" alt=\"Zicounsels\"><p style=\"font-size:12px;color:#5865b9\">DISPELLING YOUR CLOUDS OF DOUBT</p><h1 style=\"font-family:Georgia;font-size:28px;color:#23294d\">The Compass</h1><p>Hello {{first_name}},</p><h2>One story</h2><p>{{story_excerpt}}</p><p><a href=\"{{story_url}}\">Read this month\u2019s Safari Zetu story</a></p><h2>One practical tip</h2><p>{{practical_tip}}</p><h2>Your next step</h2><p>{{offer_text}}</p><p style=\"padding:16px\"><a href=\"{{booking_url}}\" style=\"background-color:#515fc1;color:#ffffff;padding:14px;text-decoration:none;border-radius:6px\">Explore this month\u2019s offer</a></p><p>With light,<br>The Zicounsels team</p></td></tr></table></td></tr></table>"
+  },
+  {
+    "id": "academy",
+    "category": "Growth",
+    "name": "A new way to keep learning",
+    "subject": "Explore {{course_name}} at the Zicounsels Career Academy",
+    "html": "<table role=\"presentation\" width=\"100%\" style=\"background-color:#f3f4fa\"><tr><td align=\"center\" style=\"padding:28px\"><table role=\"presentation\" width=\"100%\" style=\"width:100%;max-width:600px;background-color:#ffffff;font-family:Arial,sans-serif;line-height:1.6\"><tr><td style=\"padding:28px\"><img src=\"{{logo_url}}\" width=\"200\" alt=\"Zicounsels\"><p style=\"font-size:12px;color:#5865b9\">DISPELLING YOUR CLOUDS OF DOUBT</p><h1 style=\"font-family:Georgia;font-size:28px;color:#23294d\">A new way to keep learning</h1><p>Hello {{first_name}},</p><p>{{course_description}}</p><p>Learn in small steps, try the exercises and bring your questions to the community. Check the course page for access, fees and completion requirements.</p><p style=\"padding:16px\"><a href=\"{{course_url}}\" style=\"background-color:#515fc1;color:#ffffff;padding:14px;text-decoration:none;border-radius:6px\">Explore the course</a></p><p>With light,<br>The Zicounsels team</p></td></tr></table></td></tr></table>"
+  },
+  {
+    "id": "reengage",
+    "category": "Retention",
+    "name": "Does this still feel useful?",
+    "subject": "Still interested in career guidance from Zicounsels?",
+    "html": "<table role=\"presentation\" width=\"100%\" style=\"background-color:#f3f4fa\"><tr><td align=\"center\" style=\"padding:28px\"><table role=\"presentation\" width=\"100%\" style=\"width:100%;max-width:600px;background-color:#ffffff;font-family:Arial,sans-serif;line-height:1.6\"><tr><td style=\"padding:28px\"><img src=\"{{logo_url}}\" width=\"200\" alt=\"Zicounsels\"><p style=\"font-size:12px;color:#5865b9\">DISPELLING YOUR CLOUDS OF DOUBT</p><h1 style=\"font-family:Georgia;font-size:28px;color:#23294d\">Does this still feel useful?</h1><p>Hello {{first_name}},</p><p>Your priorities may have changed, and that is okay. Let us know which topics are useful to you now.</p><p>If you would rather stop receiving these emails, the unsubscribe link below is always available.</p><p style=\"padding:16px\"><a href=\"{{preferences_url}}\" style=\"background-color:#515fc1;color:#ffffff;padding:14px;text-decoration:none;border-radius:6px\">Update my preferences</a></p><p>With light,<br>The Zicounsels team</p></td></tr></table></td></tr></table>"
+  },
+  {
+    "id": "birthday",
+    "category": "Celebrations",
+    "name": "A new year of you",
+    "subject": "Happy birthday, {{first_name}}!",
+    "html": "<table role=\"presentation\" width=\"100%\" style=\"background-color:#f3f4fa\"><tr><td align=\"center\" style=\"padding:28px\"><table role=\"presentation\" width=\"100%\" style=\"width:100%;max-width:600px;background-color:#ffffff;font-family:Arial,sans-serif;line-height:1.6\"><tr><td style=\"padding:28px\"><img src=\"{{logo_url}}\" width=\"200\" alt=\"Zicounsels\"><p style=\"font-size:12px;color:#5865b9\">DISPELLING YOUR CLOUDS OF DOUBT</p><h1 style=\"font-family:Georgia;font-size:28px;color:#23294d\">A new year of you</h1><p>Hello {{first_name}},</p><p>We hope today gives you space to celebrate who you are and the steps you have taken.</p><p>For the year ahead, try one gentle question: what would I like to give myself permission to explore?</p><p>{{birthday_offer}}</p><p style=\"padding:16px\"><a href=\"{{booking_url}}\" style=\"background-color:#515fc1;color:#ffffff;padding:14px;text-decoration:none;border-radius:6px\">Explore my birthday next step</a></p><p>With light,<br>The Zicounsels team</p></td></tr></table></td></tr></table>"
+  },
+  {
+    "id": "anniversary",
+    "category": "Celebrations",
+    "name": "Here is to your journey",
+    "subject": "Celebrating your Zicounsels anniversary",
+    "html": "<table role=\"presentation\" width=\"100%\" style=\"background-color:#f3f4fa\"><tr><td align=\"center\" style=\"padding:28px\"><table role=\"presentation\" width=\"100%\" style=\"width:100%;max-width:600px;background-color:#ffffff;font-family:Arial,sans-serif;line-height:1.6\"><tr><td style=\"padding:28px\"><img src=\"{{logo_url}}\" width=\"200\" alt=\"Zicounsels\"><p style=\"font-size:12px;color:#5865b9\">DISPELLING YOUR CLOUDS OF DOUBT</p><h1 style=\"font-family:Georgia;font-size:28px;color:#23294d\">Here is to your journey</h1><p>Hello {{first_name}},</p><p>Thank you for making Zicounsels part of your journey. Progress is not always loud; sometimes it is a clearer question or the courage to try again.</p><p>{{anniversary_message}}</p><p style=\"padding:16px\"><a href=\"{{booking_url}}\" style=\"background-color:#515fc1;color:#ffffff;padding:14px;text-decoration:none;border-radius:6px\">Choose my next step</a></p><p>With light,<br>The Zicounsels team</p></td></tr></table></td></tr></table>"
+  },
+  {
+    "id": "session-thanks",
+    "category": "Retention",
+    "name": "Thank you for showing up for yourself",
+    "subject": "One next step after your counselling session",
+    "html": "<table role=\"presentation\" width=\"100%\" style=\"background-color:#f3f4fa\"><tr><td align=\"center\" style=\"padding:28px\"><table role=\"presentation\" width=\"100%\" style=\"width:100%;max-width:600px;background-color:#ffffff;font-family:Arial,sans-serif;line-height:1.6\"><tr><td style=\"padding:28px\"><img src=\"{{logo_url}}\" width=\"200\" alt=\"Zicounsels\"><p style=\"font-size:12px;color:#5865b9\">DISPELLING YOUR CLOUDS OF DOUBT</p><h1 style=\"font-family:Georgia;font-size:28px;color:#23294d\">Thank you for showing up for yourself</h1><p>Hello {{first_name}},</p><p>Take a moment to reflect on the action you chose. Keep your personal notes somewhere private; there is no need to reply with sensitive information.</p><p style=\"padding:16px\"><a href=\"{{feedback_url}}\" style=\"background-color:#515fc1;color:#ffffff;padding:14px;text-decoration:none;border-radius:6px\">Share session feedback</a></p><p>With light,<br>The Zicounsels team</p></td></tr></table></td></tr></table>"
+  },
+  {
+    "id": "session-check",
+    "category": "Retention",
+    "name": "How is your next step going?",
+    "subject": "A gentle check-in on your career plan",
+    "html": "<table role=\"presentation\" width=\"100%\" style=\"background-color:#f3f4fa\"><tr><td align=\"center\" style=\"padding:28px\"><table role=\"presentation\" width=\"100%\" style=\"width:100%;max-width:600px;background-color:#ffffff;font-family:Arial,sans-serif;line-height:1.6\"><tr><td style=\"padding:28px\"><img src=\"{{logo_url}}\" width=\"200\" alt=\"Zicounsels\"><p style=\"font-size:12px;color:#5865b9\">DISPELLING YOUR CLOUDS OF DOUBT</p><h1 style=\"font-family:Georgia;font-size:28px;color:#23294d\">How is your next step going?</h1><p>Hello {{first_name}},</p><p>Were you able to try the action you chose? If circumstances changed, choose a smaller step that fits this week.</p><p>You can book another conversation if you would like support.</p><p style=\"padding:16px\"><a href=\"{{booking_url}}\" style=\"background-color:#515fc1;color:#ffffff;padding:14px;text-decoration:none;border-radius:6px\">Book a follow-up</a></p><p>With light,<br>The Zicounsels team</p></td></tr></table></td></tr></table>"
+  },
+  {
+    "id": "course-reminder",
+    "category": "Retention",
+    "name": "A little progress is still progress",
+    "subject": "Continue {{course_name}} when you are ready",
+    "html": "<table role=\"presentation\" width=\"100%\" style=\"background-color:#f3f4fa\"><tr><td align=\"center\" style=\"padding:28px\"><table role=\"presentation\" width=\"100%\" style=\"width:100%;max-width:600px;background-color:#ffffff;font-family:Arial,sans-serif;line-height:1.6\"><tr><td style=\"padding:28px\"><img src=\"{{logo_url}}\" width=\"200\" alt=\"Zicounsels\"><p style=\"font-size:12px;color:#5865b9\">DISPELLING YOUR CLOUDS OF DOUBT</p><h1 style=\"font-family:Georgia;font-size:28px;color:#23294d\">A little progress is still progress</h1><p>Hello {{first_name}},</p><p>Your next lesson is waiting. Set aside ten minutes, revisit your notes and choose one idea to apply.</p><p style=\"padding:16px\"><a href=\"{{course_url}}\" style=\"background-color:#515fc1;color:#ffffff;padding:14px;text-decoration:none;border-radius:6px\">Continue learning</a></p><p>With light,<br>The Zicounsels team</p></td></tr></table></td></tr></table>"
+  },
+  {
+    "id": "application",
+    "category": "HR",
+    "name": "Thank you for offering your time",
+    "subject": "We have received your volunteer application",
+    "html": "<table role=\"presentation\" width=\"100%\" style=\"background-color:#f3f4fa\"><tr><td align=\"center\" style=\"padding:28px\"><table role=\"presentation\" width=\"100%\" style=\"width:100%;max-width:600px;background-color:#ffffff;font-family:Arial,sans-serif;line-height:1.6\"><tr><td style=\"padding:28px\"><img src=\"{{logo_url}}\" width=\"200\" alt=\"Zicounsels\"><p style=\"font-size:12px;color:#5865b9\">DISPELLING YOUR CLOUDS OF DOUBT</p><h1 style=\"font-family:Georgia;font-size:28px;color:#23294d\">Thank you for offering your time</h1><p>Hello {{first_name}},</p><p>Thank you for your interest in giving one hour a week to support someone\u2019s career journey. Our team will review your application and contact you about the next stage.</p><p>This acknowledgment is not an offer or confirmation of placement.</p><p style=\"padding:16px\"><a href=\"{{volunteer_url}}\" style=\"background-color:#515fc1;color:#ffffff;padding:14px;text-decoration:none;border-radius:6px\">Review the volunteer journey</a></p><p>With light,<br>The Zicounsels team</p></td></tr></table></td></tr></table>"
+  },
+  {
+    "id": "info-session",
+    "category": "HR",
+    "name": "What could one hour a week make possible?",
+    "subject": "Your invitation: the Zicounsels volunteer info session",
+    "html": "<table role=\"presentation\" width=\"100%\" style=\"background-color:#f3f4fa\"><tr><td align=\"center\" style=\"padding:28px\"><table role=\"presentation\" width=\"100%\" style=\"width:100%;max-width:600px;background-color:#ffffff;font-family:Arial,sans-serif;line-height:1.6\"><tr><td style=\"padding:28px\"><img src=\"{{logo_url}}\" width=\"200\" alt=\"Zicounsels\"><p style=\"font-size:12px;color:#5865b9\">DISPELLING YOUR CLOUDS OF DOUBT</p><h1 style=\"font-family:Georgia;font-size:28px;color:#23294d\">What could one hour a week make possible?</h1><p>Hello {{first_name}},</p><p>Meet the team and learn about the role, time commitment, screening, support and learning pathway.</p><p>Session time: {{event_time}}. Please check the time in your own location.</p><p style=\"padding:16px\"><a href=\"{{registration_url}}\" style=\"background-color:#515fc1;color:#ffffff;padding:14px;text-decoration:none;border-radius:6px\">Reserve my place</a></p><p>With light,<br>The Zicounsels team</p></td></tr></table></td></tr></table>"
+  },
+  {
+    "id": "interview",
+    "category": "HR",
+    "name": "Let us get to know each other",
+    "subject": "Choose a time for your Zicounsels screening conversation",
+    "html": "<table role=\"presentation\" width=\"100%\" style=\"background-color:#f3f4fa\"><tr><td align=\"center\" style=\"padding:28px\"><table role=\"presentation\" width=\"100%\" style=\"width:100%;max-width:600px;background-color:#ffffff;font-family:Arial,sans-serif;line-height:1.6\"><tr><td style=\"padding:28px\"><img src=\"{{logo_url}}\" width=\"200\" alt=\"Zicounsels\"><p style=\"font-size:12px;color:#5865b9\">DISPELLING YOUR CLOUDS OF DOUBT</p><h1 style=\"font-family:Georgia;font-size:28px;color:#23294d\">Let us get to know each other</h1><p>Hello {{first_name}},</p><p>We would like to learn about your experience, areas of competence and approach to supporting people. You will also have time to ask questions about our team and expectations.</p><p style=\"padding:16px\"><a href=\"{{interview_url}}\" style=\"background-color:#515fc1;color:#ffffff;padding:14px;text-decoration:none;border-radius:6px\">Choose an interview time</a></p><p>With light,<br>The Zicounsels team</p></td></tr></table></td></tr></table>"
+  },
+  {
+    "id": "credential",
+    "category": "HR",
+    "name": "Your next screening step",
+    "subject": "Conditional next step: credentials and safeguarding checks",
+    "html": "<table role=\"presentation\" width=\"100%\" style=\"background-color:#f3f4fa\"><tr><td align=\"center\" style=\"padding:28px\"><table role=\"presentation\" width=\"100%\" style=\"width:100%;max-width:600px;background-color:#ffffff;font-family:Arial,sans-serif;line-height:1.6\"><tr><td style=\"padding:28px\"><img src=\"{{logo_url}}\" width=\"200\" alt=\"Zicounsels\"><p style=\"font-size:12px;color:#5865b9\">DISPELLING YOUR CLOUDS OF DOUBT</p><h1 style=\"font-family:Georgia;font-size:28px;color:#23294d\">Your next screening step</h1><p>Hello {{first_name}},</p><p>We are inviting you to continue the screening process, subject to satisfactory credential verification and the checks relevant to your role.</p><p>Please use the secure portal to provide the documents requested for your qualification or student status. Do not send identity documents or sensitive records by email.</p><p style=\"padding:16px\"><a href=\"{{verification_url}}\" style=\"background-color:#515fc1;color:#ffffff;padding:14px;text-decoration:none;border-radius:6px\">Open the secure verification portal</a></p><p>With light,<br>The Zicounsels team</p></td></tr></table></td></tr></table>"
+  },
+  {
+    "id": "orientation",
+    "category": "HR",
+    "name": "Welcome to your volunteer cohort",
+    "subject": "Your Zicounsels orientation details",
+    "html": "<table role=\"presentation\" width=\"100%\" style=\"background-color:#f3f4fa\"><tr><td align=\"center\" style=\"padding:28px\"><table role=\"presentation\" width=\"100%\" style=\"width:100%;max-width:600px;background-color:#ffffff;font-family:Arial,sans-serif;line-height:1.6\"><tr><td style=\"padding:28px\"><img src=\"{{logo_url}}\" width=\"200\" alt=\"Zicounsels\"><p style=\"font-size:12px;color:#5865b9\">DISPELLING YOUR CLOUDS OF DOUBT</p><h1 style=\"font-family:Georgia;font-size:28px;color:#23294d\">Welcome to your volunteer cohort</h1><p>Hello {{first_name}},</p><p>Welcome to {{cohort_name}}. Your orientation is scheduled for {{event_time}}.</p><p>Your point of contact is {{coordinator_name}}. We will walk through boundaries, systems, supervision and how to ask for help before your first assignment.</p><p style=\"padding:16px\"><a href=\"{{orientation_url}}\" style=\"background-color:#515fc1;color:#ffffff;padding:14px;text-decoration:none;border-radius:6px\">View orientation details</a></p><p>With light,<br>The Zicounsels team</p></td></tr></table></td></tr></table>"
+  },
+  {
+    "id": "crash-course",
+    "category": "HR",
+    "name": "Build your foundation before you begin",
+    "subject": "Your Career Counselling Crash Course is ready",
+    "html": "<table role=\"presentation\" width=\"100%\" style=\"background-color:#f3f4fa\"><tr><td align=\"center\" style=\"padding:28px\"><table role=\"presentation\" width=\"100%\" style=\"width:100%;max-width:600px;background-color:#ffffff;font-family:Arial,sans-serif;line-height:1.6\"><tr><td style=\"padding:28px\"><img src=\"{{logo_url}}\" width=\"200\" alt=\"Zicounsels\"><p style=\"font-size:12px;color:#5865b9\">DISPELLING YOUR CLOUDS OF DOUBT</p><h1 style=\"font-family:Georgia;font-size:28px;color:#23294d\">Build your foundation before you begin</h1><p>Hello {{first_name}},</p><p>Please complete the assigned volunteer crash course and required assessment before progressing to supervised practice.</p><p>Your learning page explains the modules, deadlines and support options. Completion alone is not professional accreditation or authorization to practise independently.</p><p style=\"padding:16px\"><a href=\"{{course_url}}\" style=\"background-color:#515fc1;color:#ffffff;padding:14px;text-decoration:none;border-radius:6px\">Open my learning pathway</a></p><p>With light,<br>The Zicounsels team</p></td></tr></table></td></tr></table>"
+  },
+  {
+    "id": "provision",
+    "category": "HR",
+    "name": "Your workspace is ready",
+    "subject": "Set up your Zicounsels account securely",
+    "html": "<table role=\"presentation\" width=\"100%\" style=\"background-color:#f3f4fa\"><tr><td align=\"center\" style=\"padding:28px\"><table role=\"presentation\" width=\"100%\" style=\"width:100%;max-width:600px;background-color:#ffffff;font-family:Arial,sans-serif;line-height:1.6\"><tr><td style=\"padding:28px\"><img src=\"{{logo_url}}\" width=\"200\" alt=\"Zicounsels\"><p style=\"font-size:12px;color:#5865b9\">DISPELLING YOUR CLOUDS OF DOUBT</p><h1 style=\"font-family:Georgia;font-size:28px;color:#23294d\">Your workspace is ready</h1><p>Hello {{first_name}},</p><p>Your approved access invitation is available through our secure portal. Use the link to set up your account and enable the required account protection.</p><p>We will never send passwords or counselling records in a marketing email. If you were not expecting this invitation, contact your coordinator.</p><p style=\"padding:16px\"><a href=\"{{provisioning_url}}\" style=\"background-color:#515fc1;color:#ffffff;padding:14px;text-decoration:none;border-radius:6px\">Set up my account</a></p><p>With light,<br>The Zicounsels team</p></td></tr></table></td></tr></table>"
+  },
+  {
+    "id": "safeguarding",
+    "category": "HR",
+    "name": "Please review this policy update",
+    "subject": "Action required: safeguarding and data-handling update",
+    "html": "<table role=\"presentation\" width=\"100%\" style=\"background-color:#f3f4fa\"><tr><td align=\"center\" style=\"padding:28px\"><table role=\"presentation\" width=\"100%\" style=\"width:100%;max-width:600px;background-color:#ffffff;font-family:Arial,sans-serif;line-height:1.6\"><tr><td style=\"padding:28px\"><img src=\"{{logo_url}}\" width=\"200\" alt=\"Zicounsels\"><p style=\"font-size:12px;color:#5865b9\">DISPELLING YOUR CLOUDS OF DOUBT</p><h1 style=\"font-family:Georgia;font-size:28px;color:#23294d\">Please review this policy update</h1><p>Hello {{first_name}},</p><p>Please read the current approved policy and complete the acknowledgment in the secure portal.</p><p>Keep counselling notes separate from outreach lists. Follow the approved consent and escalation procedures when supporting minors. Refer questions to your safeguarding lead before proceeding.</p><p style=\"padding:16px\"><a href=\"{{policy_url}}\" style=\"background-color:#515fc1;color:#ffffff;padding:14px;text-decoration:none;border-radius:6px\">Read and acknowledge</a></p><p>With light,<br>The Zicounsels team</p></td></tr></table></td></tr></table>"
+  },
+  {
+    "id": "supervision",
+    "category": "HR",
+    "name": "A space to learn together",
+    "subject": "Your peer supervision session is coming up",
+    "html": "<table role=\"presentation\" width=\"100%\" style=\"background-color:#f3f4fa\"><tr><td align=\"center\" style=\"padding:28px\"><table role=\"presentation\" width=\"100%\" style=\"width:100%;max-width:600px;background-color:#ffffff;font-family:Arial,sans-serif;line-height:1.6\"><tr><td style=\"padding:28px\"><img src=\"{{logo_url}}\" width=\"200\" alt=\"Zicounsels\"><p style=\"font-size:12px;color:#5865b9\">DISPELLING YOUR CLOUDS OF DOUBT</p><h1 style=\"font-family:Georgia;font-size:28px;color:#23294d\">A space to learn together</h1><p>Hello {{first_name}},</p><p>Our next consultation session is {{event_time}}. Please prepare your learning questions and follow the approved process for de-identifying case material.</p><p>Do not reply to this email with client details or clinical notes.</p><p style=\"padding:16px\"><a href=\"{{meeting_url}}\" style=\"background-color:#515fc1;color:#ffffff;padding:14px;text-decoration:none;border-radius:6px\">View supervision details</a></p><p>With light,<br>The Zicounsels team</p></td></tr></table></td></tr></table>"
+  },
+  {
+    "id": "self-care",
+    "category": "HR",
+    "name": "How are you doing, really?",
+    "subject": "A check-in for the person behind the support",
+    "html": "<table role=\"presentation\" width=\"100%\" style=\"background-color:#f3f4fa\"><tr><td align=\"center\" style=\"padding:28px\"><table role=\"presentation\" width=\"100%\" style=\"width:100%;max-width:600px;background-color:#ffffff;font-family:Arial,sans-serif;line-height:1.6\"><tr><td style=\"padding:28px\"><img src=\"{{logo_url}}\" width=\"200\" alt=\"Zicounsels\"><p style=\"font-size:12px;color:#5865b9\">DISPELLING YOUR CLOUDS OF DOUBT</p><h1 style=\"font-family:Georgia;font-size:28px;color:#23294d\">How are you doing, really?</h1><p>Hello {{first_name}},</p><p>Thank you for the care you bring to your volunteer work. How manageable is your current commitment?</p><p>If you need a pause, an adjustment or a conversation, please contact your coordinator privately. Sustainable service includes looking after yourself.</p><p style=\"padding:16px\"><a href=\"{{checkin_url}}\" style=\"background-color:#515fc1;color:#ffffff;padding:14px;text-decoration:none;border-radius:6px\">Request a private check-in</a></p><p>With light,<br>The Zicounsels team</p></td></tr></table></td></tr></table>"
+  },
+  {
+    "id": "graduation",
+    "category": "HR",
+    "name": "Your service matters",
+    "subject": "Thank you for serving with {{cohort_name}}",
+    "html": "<table role=\"presentation\" width=\"100%\" style=\"background-color:#f3f4fa\"><tr><td align=\"center\" style=\"padding:28px\"><table role=\"presentation\" width=\"100%\" style=\"width:100%;max-width:600px;background-color:#ffffff;font-family:Arial,sans-serif;line-height:1.6\"><tr><td style=\"padding:28px\"><img src=\"{{logo_url}}\" width=\"200\" alt=\"Zicounsels\"><p style=\"font-size:12px;color:#5865b9\">DISPELLING YOUR CLOUDS OF DOUBT</p><h1 style=\"font-family:Georgia;font-size:28px;color:#23294d\">Your service matters</h1><p>Hello {{first_name}},</p><p>Thank you for the time, attention and care you have contributed during your service term.</p><p>Your service acknowledgment and any eligible certificate are available through the link below. We would also value your feedback on the experience.</p><p style=\"padding:16px\"><a href=\"{{certificate_url}}\" style=\"background-color:#515fc1;color:#ffffff;padding:14px;text-decoration:none;border-radius:6px\">View my service acknowledgment</a></p><p>With light,<br>The Zicounsels team</p></td></tr></table></td></tr></table>"
+  }
+]

@@ -1,0 +1,3 @@
+const token=location.hash.slice(1),api=window.ZICO_CONFIG.apiUrl;
+const stop=document.querySelector('#stop');if(/^[a-f0-9]{64}\.[\w-]+$/.test(token))stop.href=api+'/u/'+token;
+document.querySelector('#prefs').onsubmit=async e=>{e.preventDefault();try{const r=await fetch(api+'/preferences/'+encodeURIComponent(token),{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({segment:document.querySelector('#segment').value})});if(!r.ok)throw Error('Could not save. Please use the link from your email.');document.querySelector('#result').textContent='Preferences saved. This does not reactivate an unsubscribed address.';}catch(err){document.querySelector('#result').textContent=err.message;}};
