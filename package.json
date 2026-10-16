@@ -1,0 +1,26 @@
+{
+  "name": "zicounsels-mail",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "node --env-file=.env server/index.js",
+    "test": "node --experimental-test-module-mocks --test tests/*.test.js",
+    "check": "node --check server/index.js && node --check server/engine.js && node --check public/app.js"
+  },
+  "dependencies": {
+    "@google-cloud/firestore": "^9.3.1",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "google-auth-library": "^11.3.1",
+    "googleapis": "^186.0.0",
+    "helmet": "^8.0.0",
+    "luxon": "^3.5.0",
+    "sanitize-html": "^2.14.0",
+    "svix": "^1.62.0"
+  }
+}

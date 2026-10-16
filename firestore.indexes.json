@@ -1,0 +1,1 @@
+{"indexes":[],"fieldOverrides":[{"collectionGroup":"jobs","fieldPath":"payload","indexes":[]},{"collectionGroup":"campaigns","fieldPath":"html","indexes":[]},{"collectionGroup":"campaigns","fieldPath":"recipientIds","indexes":[]},{"collectionGroup":"automations","fieldPath":"steps","indexes":[]}]}
